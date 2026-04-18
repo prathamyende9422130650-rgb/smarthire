@@ -1,0 +1,6 @@
+streamlit
+pdfplumber
+plotly
+pandas
+fpdf2
+requests
